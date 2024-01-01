@@ -19,11 +19,11 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 30 December 2023
+From: 24 December 2023 - To: 31 December 2023
 
 Total Time: 37 hrs 4 mins
 
-Other             17 hrs 44 mins  ████████████░░░░░░░░░░░░░   47.86 %
+Other             17 hrs 44 mins  ████████████░░░░░░░░░░░░░   47.85 %
 Java              14 hrs 11 mins  █████████▓░░░░░░░░░░░░░░░   38.29 %
 XML               3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
 YAML              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
