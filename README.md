@@ -19,13 +19,12 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2024 - To: 06 March 2024
+From: 29 February 2024 - To: 07 March 2024
 
-Total Time: 34 hrs 47 mins
+Total Time: 33 hrs 56 mins
 
-Other          34 hrs 31 mins  ████████████████████████▓   99.25 %
-Figma Design   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Vue.js         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other          33 hrs 46 mins  █████████████████████████   99.48 %
+Figma Design   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
