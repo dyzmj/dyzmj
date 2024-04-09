@@ -19,15 +19,15 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 07 April 2024
+From: 01 April 2024 - To: 08 April 2024
 
-Total Time: 25 hrs 34 mins
+Total Time: 26 hrs 25 mins
 
-Other            20 hrs 20 mins  ████████████████████░░░░░   79.54 %
-Java             5 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other            20 hrs 42 mins  ███████████████████▓░░░░░   78.37 %
+Java             5 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+XML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
