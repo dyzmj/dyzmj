@@ -19,11 +19,11 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2024 - To: 06 June 2024
+From: 31 May 2024 - To: 07 June 2024
 
-Total Time: 22 hrs 26 mins
+Total Time: 22 hrs 49 mins
 
-Other   22 hrs 26 mins  █████████████████████████   100.00 %
+Other   22 hrs 49 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
