@@ -19,12 +19,12 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2024 - To: 17 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
-Total Time: 21 hrs 24 mins
+Total Time: 20 hrs 54 mins
 
-Other   21 hrs 18 mins  █████████████████████████   99.53 %
-YAML    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Other   20 hrs 45 mins  ████████████████████████▓   99.27 %
+YAML    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
