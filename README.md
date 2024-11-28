@@ -19,14 +19,14 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2024 - To: 26 November 2024
+From: 20 November 2024 - To: 27 November 2024
 
-Total Time: 31 hrs 44 mins
+Total Time: 27 hrs 55 mins
 
-Other          29 hrs 24 mins  ███████████████████████░░   92.63 %
-Rust           2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Markdown       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-E              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other          25 hrs 41 mins  ███████████████████████░░   92.01 %
+Rust           2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Markdown       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+E              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Roff Manpage   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
