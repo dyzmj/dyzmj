@@ -19,15 +19,15 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2025 - To: 24 February 2025
+From: 18 February 2025 - To: 25 February 2025
 
-Total Time: 45 hrs 2 mins
+Total Time: 45 hrs 23 mins
 
-Other             29 hrs 51 mins  ████████████████▓░░░░░░░░   66.28 %
-Java              13 hrs 13 mins  ███████▒░░░░░░░░░░░░░░░░░   29.35 %
-Image (svg)       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-YAML              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Properties        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Other             31 hrs 40 mins  █████████████████▒░░░░░░░   69.76 %
+Java              12 hrs 6 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
+YAML              26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Properties        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Image (svg)       15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
