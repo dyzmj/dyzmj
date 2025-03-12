@@ -34,7 +34,7 @@ Image (svg)       19 mins         ▒░░░░░░░░░░░░░░�
 
 #### Technologies I use
 
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=Java&logoColor=6DB33F)
 ![Rust](https://img.shields.io/badge/-Rust-222222?style=flat&logo=Rust&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
