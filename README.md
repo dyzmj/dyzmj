@@ -19,13 +19,13 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2025 - To: 30 March 2025
+From: 24 March 2025 - To: 31 March 2025
 
-Total Time: 32 hrs 27 mins
+Total Time: 36 hrs 11 mins
 
-Other      31 hrs 11 mins  ████████████████████████░   96.12 %
-Markdown   1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Java       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other         34 hrs 56 mins  ████████████████████████░   96.55 %
+Markdown      59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Image (svg)   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
