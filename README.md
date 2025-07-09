@@ -19,14 +19,12 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2025 - To: 07 July 2025
+From: 01 July 2025 - To: 08 July 2025
 
-Total Time: 35 hrs 20 mins
+Total Time: 35 hrs 30 mins
 
-Other        34 hrs 35 mins  ████████████████████████▒   97.84 %
-Markdown     45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Shell        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other        35 hrs 1 min    ████████████████████████▓   98.64 %
+Markdown     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
