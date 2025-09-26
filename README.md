@@ -19,15 +19,15 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-Total Time: 36 hrs 18 mins
+Total Time: 33 hrs 42 mins
 
-Other                              33 hrs 12 mins  ███████████████████████░░   91.49 %
-Microsoft Visual Studio Solution   1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-C++                                1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Markdown                           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-C                                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other                              29 hrs 56 mins  ██████████████████████▒░░   88.80 %
+Microsoft Visual Studio Solution   1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+C++                                1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Maven POM                          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Markdown                           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
