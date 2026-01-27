@@ -19,12 +19,12 @@ I'm `dyzmj`.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2026 - To: 25 January 2026
+From: 19 January 2026 - To: 26 January 2026
 
-Total Time: 33 hrs 58 mins
+Total Time: 32 hrs 49 mins
 
-Other      32 hrs 12 mins  ███████████████████████▓░   94.81 %
-Markdown   1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Other      30 hrs 39 mins  ███████████████████████▒░   93.43 %
+Markdown   2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
 ```
 
 <!--END_SECTION:waka-->
